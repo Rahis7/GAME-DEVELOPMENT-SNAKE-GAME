@@ -1,3 +1,18 @@
+# GAME DEVELOPMENT:SNAKE GAME
+
+COMPANY : CODTECH IT SOLUTION
+
+NAME : RAHISH KUMAR
+
+INTERN ID : CT04DF599
+
+DOMAIN :  C++ PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH
+
+Task Overview:
 
 
 🐍 Snake Game using SFML
@@ -99,3 +114,5 @@ Inspired by the classic Snake game concept
 📜 License
 This project is open-source and free to use under the MIT License.
 
+OUTPUT-
+![Image](https://github.com/user-attachments/assets/536f2630-aed8-4ca5-9e4e-73f775d7ae6c)
